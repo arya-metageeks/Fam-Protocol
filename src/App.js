@@ -2,7 +2,6 @@ import { useEffect, useState } from 'react';
 import { ethers } from 'ethers';
 
 import Navigation from './components/Navigation';
-import Search from './components/Search';
 import OwnerPage from './components/OwnerPage';
 import BuyPage from './components/BuyPage';
 
